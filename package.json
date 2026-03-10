@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that reads user data from MySQL and sends it via DM.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "init-db": "node src/init-db.js",
+    "migrate": "node src/migrate.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.15.2"
+  }
+}
