@@ -79,7 +79,8 @@ client.on("interactionCreate", async (interaction) => {
               `  GWA: ${formatNumber(grade.gwa)}`,
               `  Remarks: ${grade.remarks}`,
               `============Notes=============`,
-              `This is your unofficial grade record.`
+              `This is your unofficial grade record.`,
+              `Exam and Long Quiz Scores are not included in this summary.`,
             ].join("\n")
         )
       : ["No grades found for the latest enrollment."];
