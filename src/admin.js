@@ -2,7 +2,8 @@ require("dotenv").config();
 const http = require("http");
 const { ensureSchema, importStudentRecords, importGradeRecords, close } = require("./db");
 
-const port = Number(process.env.ADMIN_PORT || 3000);
+const port = Number(process.env.PORT || process.env.ADMIN_PORT || 3000);
+const host = process.env.HOST || "0.0.0.0";
 
 function renderPage() {
   return `<!DOCTYPE html>
@@ -779,8 +780,8 @@ const server = http.createServer(async (request, response) => {
   response.end("Not found");
 });
 
-server.listen(port, "127.0.0.1", () => {
-  console.log(`Admin import page running at http://127.0.0.1:${port}`);
+server.listen(port, host, () => {
+  console.log(`Admin import page running at http://${host}:${port}`);
 });
 
 process.on("SIGINT", async () => {
