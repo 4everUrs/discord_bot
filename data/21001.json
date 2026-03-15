@@ -1,0 +1,281 @@
+[
+  {
+    "student_id": "240118253",
+    "first_name": "Erica",
+    "last_name": "Rivarez",
+    "email": "240118253@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240118232",
+    "first_name": "Kevin",
+    "last_name": "Dumandan",
+    "email": "240118232@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "22012456",
+    "first_name": "Aira",
+    "last_name": "Lim",
+    "email": "22012456@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240118286",
+    "first_name": "Michael",
+    "last_name": "Labro",
+    "email": "240118286@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240118192",
+    "first_name": "Gemma",
+    "last_name": "Yurag",
+    "email": "240118192@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240118191",
+    "first_name": "Rhona",
+    "last_name": "Libodlibod",
+    "email": "240118191@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240112348",
+    "first_name": "Clyde",
+    "last_name": "Ibañez",
+    "email": "240112348@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240111213",
+    "first_name": "Jhon",
+    "last_name": "Vadal",
+    "email": "240111213@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "230119553",
+    "first_name": "Niño",
+    "last_name": "Erfe",
+    "email": "230119553@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240111802",
+    "first_name": "John",
+    "last_name": "Cardenas",
+    "email": "240111802@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "250102983",
+    "first_name": "Patrick",
+    "last_name": "Gelera",
+    "email": "250102983@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "230119287",
+    "first_name": "Kane",
+    "last_name": "Pandaraoan",
+    "email": "230119287@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240116767",
+    "first_name": "Kevin",
+    "last_name": "Salas",
+    "email": "240116767@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "230121056",
+    "first_name": "Wilma",
+    "last_name": "Abong",
+    "email": "230121056@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240111841",
+    "first_name": "Kenth",
+    "last_name": "Maming",
+    "email": "240111841@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "250104164",
+    "first_name": "Clarence",
+    "last_name": "Bullos",
+    "email": "250104164@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "22121515",
+    "first_name": "Jonathan",
+    "last_name": "Brondial",
+    "email": "22121515@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "21013617",
+    "first_name": "John",
+    "last_name": "Salazar",
+    "email": "21013617@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "230119825",
+    "first_name": "Steaphen",
+    "last_name": "Bondad",
+    "email": "230119825@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240105758",
+    "first_name": "Justine",
+    "last_name": "Riñon",
+    "email": "240105758@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240111299",
+    "first_name": "Mark",
+    "last_name": "Malayo",
+    "email": "240111299@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240102561",
+    "first_name": "Darex",
+    "last_name": "Roco",
+    "email": "240102561@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "21015084",
+    "first_name": "Mark",
+    "last_name": "Mabale",
+    "email": "21015084@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "240105653",
+    "first_name": "Jayzee",
+    "last_name": "Corpuz",
+    "email": "240105653@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-05"
+  },
+  {
+    "student_id": "230110667",
+    "first_name": "Rian",
+    "last_name": "Garciano",
+    "email": "230110667@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-08"
+  },
+  {
+    "student_id": "250100040",
+    "first_name": "Renz",
+    "last_name": "Castulo",
+    "email": "250100040@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-06"
+  },
+  {
+    "student_id": "230106411",
+    "first_name": "Mark",
+    "last_name": "Mabini",
+    "email": "230106411@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-08"
+  },
+  {
+    "student_id": "230112338",
+    "first_name": "Jule",
+    "last_name": "Nogar",
+    "email": "230112338@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-21"
+  },
+  {
+    "student_id": "240108079",
+    "first_name": "Novem",
+    "last_name": "Del Rosario",
+    "email": "240108079@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "250106713",
+    "first_name": "Ralph",
+    "last_name": "Avenilla",
+    "email": "250106713@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-26"
+  },
+  {
+    "student_id": "240105964",
+    "first_name": "Gems",
+    "last_name": "Saguing",
+    "email": "240105964@bcp.edu.ph",
+    "class_name": "ITE1 - Web-Fundamentals",
+    "section": "BSIT-21001",
+    "enrollment_date": "2025-11-04"
+  }
+]

@@ -33,6 +33,8 @@ MYSQL_DATABASE=discord_bot
 SCHEMA_FILE=./data/schema.sql
 ```
 
+If you want to run the admin page locally but write directly to Railway MySQL, create a separate `.env.railway` file based on `.env.railway.example`.
+
 Create your database first (once):
 
 ```sql
@@ -55,7 +57,45 @@ npm run init-db
 
 Then edit `src/init-db.js` and replace sample `custom_id` values with your real IDs.
 
-## 5. Run bot
+## 5. Import data
+
+For local or Railway MySQL imports, you can skip the admin page and run the CLI importer directly:
+
+```bash
+npm run import -- --mode full --file data/students.json
+```
+
+Grade-only imports:
+
+```bash
+npm run import -- --mode prelim --file data/prelim.json
+npm run import -- --mode midterm --file data/midterm.json
+npm run import -- --mode finals --file data/finals.json
+```
+
+This works with `.json` and `.csv` files and uses the same database import logic as the admin page.
+
+To run the admin page locally against Railway MySQL:
+
+```bash
+npm run admin:railway
+```
+
+Then open:
+
+```text
+http://127.0.0.1:3000
+```
+
+Any upload from that local admin page will use the MySQL credentials in `.env.railway`, so the data goes straight into Railway.
+
+To import files directly from the terminal using the same Railway config:
+
+```bash
+npm run import:railway -- --mode full --file data/students.json
+```
+
+## 6. Run bot
 
 ```bash
 npm start

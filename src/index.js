@@ -2,6 +2,7 @@ require("dotenv").config();
 const { Client, GatewayIntentBits } = require("discord.js");
 const { ensureSchema, findUserDataByCustomId } = require("./db");
 const { computeGradeSummary } = require("./grading");
+const { syncCommands } = require("./discord-commands");
 
 const token = process.env.DISCORD_BOT_TOKEN;
 const guildId = process.env.DISCORD_GUILD_ID || "";
@@ -24,29 +25,7 @@ const client = new Client({
 client.once("ready", async () => {
   try {
     await ensureSchema();
-
-    const commands = [
-      {
-        name: "grade-lookup",
-        description: "Send grade information to your DM using a custom ID",
-        options: [
-          {
-            type: 3,
-            name: "student_id",
-            description: "Student ID (example: 18016062)",
-            required: true
-          }
-        ]
-      }
-    ];
-
-    if (guildId) {
-      await client.application.commands.set(commands, guildId);
-      console.log(`Registered slash commands for guild ${guildId}`);
-    } else {
-      await client.application.commands.set(commands);
-      console.log("Registered global slash commands.");
-    }
+    await syncCommands(client.application, guildId);
 
     console.log(`Logged in as ${client.user.tag}`);
     console.log("Use command: /grade-lookup student_id:<value>");

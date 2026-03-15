@@ -1,0 +1,380 @@
+[
+  {
+    "student_id": "230115960",
+    "first_name": "Micaella Serrano",
+    "last_name": "Ferwelo",
+    "email": "230115960@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240100114",
+    "first_name": "John Claude Cahig",
+    "last_name": "Becamon",
+    "email": "240100114@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240103378",
+    "first_name": "Joylyn Agorto",
+    "last_name": "Tungala",
+    "email": "240103378@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240103897",
+    "first_name": "Jun Ronald Mamaclay",
+    "last_name": "Del Rosario",
+    "email": "240103897@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240104559",
+    "first_name": "Aryan Aguirre",
+    "last_name": "Docot",
+    "email": "240104559@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240104738",
+    "first_name": "April Awatin",
+    "last_name": "Naboya",
+    "email": "240104738@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240105543",
+    "first_name": "Jaymhar Isip",
+    "last_name": "Bañes",
+    "email": "240105543@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106448",
+    "first_name": "Jimuel Corona",
+    "last_name": "Ajoc",
+    "email": "240106448@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106450",
+    "first_name": "Cris Martin Gabato",
+    "last_name": "Vallega",
+    "email": "240106450@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106454",
+    "first_name": "Rutherford Bichard De Asis",
+    "last_name": "Reyes",
+    "email": "240106454@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106472",
+    "first_name": "Psalmer Buyan",
+    "last_name": "Salameda",
+    "email": "240106472@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106994",
+    "first_name": "John Ivan",
+    "last_name": "Layag",
+    "email": "240106994@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240107331",
+    "first_name": "Niño Macanas",
+    "last_name": "Bation",
+    "email": "240107331@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240107573",
+    "first_name": "Maroon Miano",
+    "last_name": "Fernandez",
+    "email": "240107573@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108377",
+    "first_name": "Ma Cristina",
+    "last_name": "Tomines",
+    "email": "240108377@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108862",
+    "first_name": "Janine Nicaeela Advincula",
+    "last_name": "Lopez",
+    "email": "240108862@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109126",
+    "first_name": "Zedric",
+    "last_name": "Ventura",
+    "email": "240109126@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109790",
+    "first_name": "Kimbrian Rombaoa",
+    "last_name": "Lumacang",
+    "email": "240109790@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109840",
+    "first_name": "Cj Gucela",
+    "last_name": "Florida",
+    "email": "240109840@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110065",
+    "first_name": "Aidelyn Cayabyab",
+    "last_name": "Villeno",
+    "email": "240110065@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110346",
+    "first_name": "Ayexha Zoe Soriano",
+    "last_name": "Sapiller",
+    "email": "240110346@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240111369",
+    "first_name": "John Rhycin Magrata",
+    "last_name": "Sison",
+    "email": "240111369@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112169",
+    "first_name": "Gabriel Pura",
+    "last_name": "Panlilio",
+    "email": "240112169@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112439",
+    "first_name": "Fionnah Estrera",
+    "last_name": "Elpa",
+    "email": "240112439@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112447",
+    "first_name": "Ralph Lawrence Bahan",
+    "last_name": "Ladra",
+    "email": "240112447@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112585",
+    "first_name": "Michael Aldrin Panes",
+    "last_name": "Picardal",
+    "email": "240112585@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112661",
+    "first_name": "Benedict Luis Nicolas",
+    "last_name": "Guevarra",
+    "email": "240112661@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240113944",
+    "first_name": "Jaida Marian Saladaga",
+    "last_name": "Roco",
+    "email": "240113944@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240114720",
+    "first_name": "Erwin Jumalon",
+    "last_name": "Alfonso",
+    "email": "240114720@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240114755",
+    "first_name": "Eddie Son Garcia",
+    "last_name": "Oliva",
+    "email": "240114755@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240115773",
+    "first_name": "Jean Timan",
+    "last_name": "Salmazan",
+    "email": "240115773@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240115775",
+    "first_name": "Jefferson Ceron",
+    "last_name": "Relloso",
+    "email": "240115775@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240116286",
+    "first_name": "Karl Vincent Morada",
+    "last_name": "Mopal",
+    "email": "240116286@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240117259",
+    "first_name": "Jholo Pitogo",
+    "last_name": "Milano",
+    "email": "240117259@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240117334",
+    "first_name": "Chris Enrico Ramirez",
+    "last_name": "Novelo",
+    "email": "240117334@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240117498",
+    "first_name": "Kurt Gilyan Cuya",
+    "last_name": "Anahaw",
+    "email": "240117498@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240118160",
+    "first_name": "Mary Fidelis De Pano",
+    "last_name": "Clemente",
+    "email": "240118160@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "250106569",
+    "first_name": "Mark Daniel Abadiez",
+    "last_name": "Petralba",
+    "email": "250106569@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "230116807",
+    "first_name": "Princess",
+    "last_name": "Gallardo",
+    "email": "230116807@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-12"
+  },
+  {
+    "student_id": "240107563",
+    "first_name": "Alyza Shane Brequillo",
+    "last_name": "Anzano",
+    "email": "240107563@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240111154",
+    "first_name": "Gilbert Castillo",
+    "last_name": "Carbo",
+    "email": "240111154@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240104545",
+    "first_name": "Ahmad Cabeer Molina",
+    "last_name": "Jundam",
+    "email": "240104545@bcp.edu.ph",
+    "class_name": "WEB101 - Advance Web Platform",
+    "section": "BSIT-22024",
+    "enrollment_date": "2025-11-04"
+  }
+]

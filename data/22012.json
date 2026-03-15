@@ -1,0 +1,462 @@
+[
+  {
+    "student_id": "240100844",
+    "first_name": "Ivan",
+    "last_name": "Pulido",
+    "email": "240100844@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240100848",
+    "first_name": "Johari",
+    "last_name": "Alon",
+    "email": "240100848@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240100930",
+    "first_name": "Sofia",
+    "last_name": "Villegas",
+    "email": "240100930@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101001",
+    "first_name": "Rosejane",
+    "last_name": "Etulle",
+    "email": "240101001@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101154",
+    "first_name": "Nicole",
+    "last_name": "Francisco",
+    "email": "240101154@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101182",
+    "first_name": "Harley",
+    "last_name": "Agbas",
+    "email": "240101182@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101184",
+    "first_name": "Kristine",
+    "last_name": "Andrada",
+    "email": "240101184@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101424",
+    "first_name": "Jan",
+    "last_name": "Pindoy",
+    "email": "240101424@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101458",
+    "first_name": "Justine",
+    "last_name": "Nangcas",
+    "email": "240101458@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101691",
+    "first_name": "Kent",
+    "last_name": "Abellano",
+    "email": "240101691@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101874",
+    "first_name": "Jovan",
+    "last_name": "Mateo",
+    "email": "240101874@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240101898",
+    "first_name": "King",
+    "last_name": "Pablo",
+    "email": "240101898@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240102318",
+    "first_name": "Charles",
+    "last_name": "Morales",
+    "email": "240102318@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240102456",
+    "first_name": "John",
+    "last_name": "Castro",
+    "email": "240102456@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240103325",
+    "first_name": "Sara",
+    "last_name": "Tero",
+    "email": "240103325@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240106155",
+    "first_name": "Irish",
+    "last_name": "Veraces",
+    "email": "240106155@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108404",
+    "first_name": "Joshua",
+    "last_name": "Monterey",
+    "email": "240108404@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108528",
+    "first_name": "Danica",
+    "last_name": "Jabonero",
+    "email": "240108528@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108688",
+    "first_name": "Ivan",
+    "last_name": "Baldevino",
+    "email": "240108688@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108785",
+    "first_name": "Ramvin",
+    "last_name": "Ligon",
+    "email": "240108785@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108786",
+    "first_name": "Carl",
+    "last_name": "Larioque",
+    "email": "240108786@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108787",
+    "first_name": "Paul",
+    "last_name": "Tolentino",
+    "email": "240108787@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240108821",
+    "first_name": "Raul",
+    "last_name": "Matucol",
+    "email": "240108821@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+
+  {
+    "student_id": "240109048",
+    "first_name": "Myke",
+    "last_name": "Belo",
+    "email": "240109048@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109110",
+    "first_name": "Kyle",
+    "last_name": "Punio",
+    "email": "240109110@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109228",
+    "first_name": "Jasmin",
+    "last_name": "Del Rosario",
+    "email": "240109228@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109350",
+    "first_name": "Ranilo",
+    "last_name": "Millanes",
+    "email": "240109350@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109590",
+    "first_name": "Drake",
+    "last_name": "Catabay",
+    "email": "240109590@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109904",
+    "first_name": "Ella",
+    "last_name": "Mariquit",
+    "email": "240109904@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110061",
+    "first_name": "James",
+    "last_name": "Sorilla",
+    "email": "240110061@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110062",
+    "first_name": "Dwayne",
+    "last_name": "Galarido",
+    "email": "240110062@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110258",
+    "first_name": "Virgilio",
+    "last_name": "Zaide",
+    "email": "240110258@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110330",
+    "first_name": "John",
+    "last_name": "Nabung",
+    "email": "240110330@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110331",
+    "first_name": "Lance",
+    "last_name": "Bolibol",
+    "email": "240110331@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240110704",
+    "first_name": "John",
+    "last_name": "Sombero",
+    "email": "240110704@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240111799",
+    "first_name": "Jilo",
+    "last_name": "Namantucan",
+    "email": "240111799@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112005",
+    "first_name": "Jhomar",
+    "last_name": "Sierra",
+    "email": "240112005@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112205",
+    "first_name": "Juan",
+    "last_name": "Gabuya",
+    "email": "240112205@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112339",
+    "first_name": "Jonel",
+    "last_name": "Espeño",
+    "email": "240112339@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112526",
+    "first_name": "Shaena",
+    "last_name": "Gal",
+    "email": "240112526@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240112744",
+    "first_name": "Xeanyhl",
+    "last_name": "Vicente",
+    "email": "240112744@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240113361",
+    "first_name": "Antonette",
+    "last_name": "Capiral",
+    "email": "240113361@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240113687",
+    "first_name": "Raine",
+    "last_name": "Aquino",
+    "email": "240113687@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240113937",
+    "first_name": "Roldan",
+    "last_name": "Agtong",
+    "email": "240113937@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240114860",
+    "first_name": "Christian",
+    "last_name": "Salvano",
+    "email": "240114860@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240115026",
+    "first_name": "David",
+    "last_name": "Alindog",
+    "email": "240115026@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240115059",
+    "first_name": "John",
+    "last_name": "Dordines",
+    "email": "240115059@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240115082",
+    "first_name": "Justin",
+    "last_name": "Nielo",
+    "email": "240115082@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "250106394",
+    "first_name": "Jonard",
+    "last_name": "Pauig",
+    "email": "250106394@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "21016798",
+    "first_name": "Karen",
+    "last_name": "Alvarez",
+    "email": "21016798@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  },
+  {
+    "student_id": "240109065",
+    "first_name": "Quinnie",
+    "last_name": "Mejas",
+    "email": "240109065@bcp.edu.ph",
+    "class_name": "ITE2 - Advance-Java-or-OOP",
+    "section": "BSIT-22012",
+    "enrollment_date": "2025-11-04"
+  }
+]

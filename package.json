@@ -7,7 +7,11 @@
   "scripts": {
     "start": "node src/start.js",
     "bot": "node src/index.js",
+    "clear-commands": "node src/clear-commands.js",
     "admin": "node src/admin.js",
+    "admin:railway": "node -r dotenv/config src/admin.js dotenv_config_path=.env.railway",
+    "import": "node src/import-data.js",
+    "import:railway": "node -r dotenv/config src/import-data.js dotenv_config_path=.env.railway",
     "init-db": "node src/init-db.js",
     "migrate": "node src/migrate.js"
   },

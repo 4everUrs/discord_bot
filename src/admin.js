@@ -3,7 +3,7 @@ const http = require("http");
 const { ensureSchema, importStudentRecords, importGradeRecords, close } = require("./db");
 
 const port = Number(process.env.PORT || process.env.ADMIN_PORT || 3000);
-const host = process.env.HOST || "0.0.0.0";
+const host = process.env.HOST || "127.0.0.1";
 
 function renderPage() {
   return `<!DOCTYPE html>
