@@ -6,6 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node src/index.js",
+    "admin": "node src/admin.js",
     "init-db": "node src/init-db.js",
     "migrate": "node src/migrate.js"
   },

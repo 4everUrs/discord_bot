@@ -37,10 +37,10 @@ CREATE TABLE ClassSubjects (
 -- 5. Enrollments (Students in Classes)
 CREATE TABLE Enrollments (
     enrollment_id INT PRIMARY KEY AUTO_INCREMENT,
-    student_id INT NOT NULL,   -- references Students.id
+    student_id INT NOT NULL,   -- references Students.student_id
     class_id INT NOT NULL,
     enrollment_date DATE NOT NULL,
-    FOREIGN KEY (student_id) REFERENCES Students(id) ON DELETE CASCADE,
+    FOREIGN KEY (student_id) REFERENCES Students(student_id) ON DELETE CASCADE,
     FOREIGN KEY (class_id) REFERENCES Classes(class_id) ON DELETE CASCADE
 );
 

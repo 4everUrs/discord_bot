@@ -8,7 +8,8 @@ const guildId = process.env.DISCORD_GUILD_ID || "";
 const allowedChannelId = process.env.ALLOWED_CHANNEL_ID || "";
 
 function formatNumber(value, digits = 2) {
-  return Number.isFinite(value) ? Number(value).toFixed(digits) : "N/A";
+  const numericValue = Number(value);
+  return Number.isFinite(numericValue) ? numericValue.toFixed(digits) : "N/A";
 }
 
 if (!token) {
@@ -31,8 +32,8 @@ client.once("ready", async () => {
         options: [
           {
             type: 3,
-            name: "custom_id",
-            description: "Custom ID (example: 18016062)",
+            name: "student_id",
+            description: "Student ID (example: 18016062)",
             required: true
           }
         ]
@@ -48,7 +49,7 @@ client.once("ready", async () => {
     }
 
     console.log(`Logged in as ${client.user.tag}`);
-    console.log("Use command: /grade-lookup custom_id:<value>");
+    console.log("Use command: /grade-lookup student_id:<value>");
     if (allowedChannelId) {
       console.log(`Restricted channel ID: ${allowedChannelId}`);
     } else {
@@ -73,12 +74,12 @@ client.on("interactionCreate", async (interaction) => {
   }
 
   try {
-    const customId = interaction.options.getString("custom_id", true).trim();
-    const userData = await findUserDataByCustomId(customId);
+    const studentId = interaction.options.getString("student_id", true).trim();
+    const userData = await findUserDataByCustomId(studentId);
 
     if (!userData) {
       await interaction.reply({
-        content: `I could not find a record for custom ID: ${customId}`,
+        content: `I could not find a record for student ID: ${studentId}`,
         ephemeral: true
       });
       return;
@@ -94,9 +95,12 @@ client.on("interactionCreate", async (interaction) => {
               `  Prelim: ${formatNumber(grade.prelim)}`,
               `  Midterm: ${formatNumber(grade.midterm)}`,
               `  Finals: ${formatNumber(grade.finals)}`,
+              `=============================================`,
               `  Final Grade: ${formatNumber(grade.finalGrade)}`,
               `  GWA: ${formatNumber(grade.gwa)}`,
-              `  Remarks: ${grade.remarks}`
+              `  Remarks: ${grade.remarks}`,
+              `============Notes=============`,
+              `This is your unofficial grade record.`
             ].join("\n")
         )
       : ["No grades found for the latest enrollment."];
@@ -109,7 +113,6 @@ client.on("interactionCreate", async (interaction) => {
       `Email: ${userData.email || "N/A"}`,
       `Class: ${userData.class_name || "Not enrolled"}`,
       `Section: ${userData.section || "Not assigned"}`,
-      `Enrollment Date: ${userData.enrollment_date || "N/A"}`,
       `Overall GWA: ${formatNumber(gradeSummary.gwa)}`,
       "",
       "Grades:",

@@ -5,12 +5,12 @@
     "finals": 0.4
   },
   "transmutation": [
-    { "min": 97, "max": 100, "gwa": 1.0, "remark": "Excellent" },
-    { "min": 93, "max": 96.99, "gwa": 1.25, "remark": "Excellent" },
-    { "min": 89, "max": 92.99, "gwa": 1.5, "remark": "Very Good" },
-    { "min": 85, "max": 88.99, "gwa": 1.75, "remark": "Very Good" },
-    { "min": 81, "max": 84.99, "gwa": 2.0, "remark": "Good" },
-    { "min": 77, "max": 80.99, "gwa": 2.25, "remark": "Good" },
+    { "min": 97, "max": 100, "gwa": 1.0, "remark": "Passed" },
+    { "min": 93, "max": 96.99, "gwa": 1.25, "remark": "Passed" },
+    { "min": 89, "max": 92.99, "gwa": 1.5, "remark": "Passed" },
+    { "min": 85, "max": 88.99, "gwa": 1.75, "remark": "Passed" },
+    { "min": 81, "max": 84.99, "gwa": 2.0, "remark": "Passed" },
+    { "min": 77, "max": 80.99, "gwa": 2.25, "remark": "Passed" },
     { "min": 75, "max": 76.99, "gwa": 2.5, "remark": "Passed" },
     { "min": 0, "max": 74.99, "gwa": 5.0, "remark": "Failed" }
   ]
