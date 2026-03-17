@@ -1,5 +1,6 @@
 const { spawn } = require("child_process");
 const path = require("path");
+const { runMigration } = require("./migrate");
 
 const children = new Set();
 let shuttingDown = false;
@@ -54,5 +55,18 @@ function shutdown(exitCode) {
 process.on("SIGINT", () => shutdown(0));
 process.on("SIGTERM", () => shutdown(0));
 
-startProcess("Discord bot", "index.js");
-startProcess("Admin server", "admin.js");
+async function main() {
+  const didRunMigration = await runMigration({ onlyIfDatabaseMissing: true });
+
+  if (didRunMigration) {
+    console.log("Database was missing, so migration was run automatically.");
+  }
+
+  startProcess("Discord bot", "index.js");
+  startProcess("Admin server", "admin.js");
+}
+
+main().catch((error) => {
+  console.error("Failed to start services:", error);
+  shutdown(1);
+});

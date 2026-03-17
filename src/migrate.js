@@ -7,7 +7,8 @@ function escapeIdentifier(identifier) {
   return `\`${String(identifier).replace(/`/g, "``")}\``;
 }
 
-async function runMigration() {
+async function runMigration(options = {}) {
+  const { onlyIfDatabaseMissing = false } = options;
   const host = process.env.MYSQL_HOST || "127.0.0.1";
   const port = Number(process.env.MYSQL_PORT || 3306);
   const user = process.env.MYSQL_USER || "root";
@@ -32,6 +33,16 @@ async function runMigration() {
   });
 
   try {
+    const [databaseRows] = await connection.query(
+      "SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = ? LIMIT 1",
+      [database]
+    );
+    const databaseExists = databaseRows.length > 0;
+
+    if (onlyIfDatabaseMissing && databaseExists) {
+      return false;
+    }
+
     await connection.query(
       `CREATE DATABASE IF NOT EXISTS ${escapeIdentifier(database)} CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci`
     );
@@ -39,12 +50,19 @@ async function runMigration() {
     await connection.query(idempotentSql);
 
     console.log(`Migration applied successfully from ${resolvedSchemaFile}`);
+    return true;
   } finally {
     await connection.end();
   }
 }
 
-runMigration().catch((error) => {
-  console.error("Migration failed:", error.message);
-  process.exitCode = 1;
-});
+module.exports = {
+  runMigration
+};
+
+if (require.main === module) {
+  runMigration().catch((error) => {
+    console.error("Migration failed:", error.message);
+    process.exitCode = 1;
+  });
+}
