@@ -105,7 +105,7 @@ client.on("interactionCreate", async (interaction) => {
       ephemeral: true
     });
   } catch (error) {
-    if (error.code === 50007) {
+    if (error.code === 50278) {
       await interaction.reply({
         content: "I cannot DM you. Please enable DMs from server members and try again.",
         ephemeral: true
